@@ -60,8 +60,8 @@
     "再生": {
         "Play": [ "再生", "key", "50" ],
         "Repeat": [ "くり返し", "button", "19b" ],
-        "PlayStartFrameFocus": [ "開始フレーム入力", "button", "199" ],
-        "PlayStopFrameFocus": [ "終了フレーム入力", "button", "19a" ],
+        "PlayStartFrameFocus": [ "開始フレーム入力", "edit", "199" ],
+        "PlayStopFrameFocus": [ "終了フレーム入力", "edit", "19a" ],
         "PlayStartFrame": [ "フレ・スタート", "button", "19e" ],
         "PlayStopFrame": [ "フレ・ストップ", "button", "19d" ]
     },
